@@ -1,0 +1,5 @@
+xdev.txt filter=lfs diff=lfs merge=lfs -text
+xtrain.txt filter=lfs diff=lfs merge=lfs -text
+stopwords_en.txt filter=lfs diff=lfs merge=lfs -text
+fulltrain.csv filter=lfs diff=lfs merge=lfs -text
+balancedtest.csv filter=lfs diff=lfs merge=lfs -text
