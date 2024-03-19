@@ -9,4 +9,6 @@
 - numpy
 - matplotlib
 - wordcloud
-- nltk
+- nltk (punkt)
+- spacy ("en_core_web_sm")
+- py-readability-metrics (readability)
