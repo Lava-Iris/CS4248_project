@@ -12,3 +12,10 @@
 - nltk (punkt)
 - spacy ("en_core_web_sm")
 - py-readability-metrics (readability)
+
+## Structure
+
+- `processed_data/` contains the data files after preprocessing.
+- `codes/` contains the code files the data cleaning, exploratory data analysis and preprocessing.
+- `models` contains the code for the trained models.
+- `images/` contains the images generated from the code including confusion matrices, word clouds, etc.
